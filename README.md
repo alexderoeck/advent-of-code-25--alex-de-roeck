@@ -2,7 +2,7 @@
 <h3 align="center">Java - IntelliJ IDEA - Alex de Roeck</h3>
 <br>
 <br>
-<h2>DAY 01 --- Completed in 1:52:23</h2>
+<h2>DAY 01 --- Part 1 Completed in 1:52:23</h2>
 This day took a long time to complete as I had to teach myself how to read files in Java and refresh myself on Java ArrayLists.
 <br><br>
 <h3>Links / Websites used to refresh / learn Java:</h3>
