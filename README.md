@@ -29,7 +29,7 @@ This day took a long time to complete as I had to teach myself how to read files
 <h3>Issues:</h3>
 
 - The biggest issue I had originally was trying to find a way of inputting the Input for Day 01. <br>
-  After researching/thinking of ideas, I decided I would either: <br><br>
+  After researching and thinking of ideas, I decided I would either: <br><br>
     Copy and paste the whole Input in and format it with parentheses to be easily be input into an ArrayList. <br>
     <i>OR</i> <br>
     Create a text file containing the Input, and learn how to read text files in Java (as I had not yet learnt how to). <br><br>
