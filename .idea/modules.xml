@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/advent-of-code-25-adr.iml" filepath="$PROJECT_DIR$/advent-of-code-25-adr.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01/day01.iml" filepath="$PROJECT_DIR$/day01/day01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day02/day02.iml" filepath="$PROJECT_DIR$/day02/day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01attempt2/day01attempt2.iml" filepath="$PROJECT_DIR$/day01attempt2/day01attempt2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01part2/day01part2.iml" filepath="$PROJECT_DIR$/day01part2/day01part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01part2attempt2/day01part2attempt2.iml" filepath="$PROJECT_DIR$/day01part2attempt2/day01part2attempt2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_P1/day02_P1.iml" filepath="$PROJECT_DIR$/day02_P1/day02_P1.iml" />
     </modules>
   </component>
 </project>
