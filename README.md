@@ -16,7 +16,7 @@ In order to run my program, you can open my files in the IntelliJ IDEA IDE. <i>I
 <h1>ATTEMPT 1</h1>
 I attempted to complete the first 3 days of the Advent of Code 2025 in 2 hours. I did this in Java using IntelliJ IDEA.<br><br>
 
-<h2>DAY 01 --- Part 1 Completed in 1:52:23</h2>
+<h2>DAY 01 --- Part 1 Completed at 1:52:23</h2>
 This day took a long time to complete as I had to teach myself how to read files in Java and refresh myself on Java ArrayLists (and Java as a whole). The time I spent doing this I included in the total time.
 
 <h2>DAY 01 --- Part 2 Incomplete at 2:00:00</h2>
@@ -28,7 +28,7 @@ I was unable to complete part 2 within the remaining time. Because the code I wr
 <summary>Links / Purposes</summary>
 
 | Purpose | Link |
-|-----:|-----------|
+|-----|-----------|
 | User Input - W3Schools | https://www.w3schools.com/java/java_user_input.asp    |
 | User Input - Stack Overflow | https://stackoverflow.com/questions/5287538/how-to-get-the-user-input-in-java    |
 | Reading Files - W3Schools | https://www.w3schools.com/java/java_files_read.asp         |
@@ -80,7 +80,7 @@ For attempt 2, I used the below websites to remind myself on certain Java code:
 <summary>Links / Purposes</summary>
 
 | Purpose | Link |
-|-----:|-----------|
+|-----|-----------|
 | Java substring() - W3Schools | https://www.w3schools.com/java/ref_string_substring.asp    |
 | Java string methods - W3Schools | https://www.w3schools.com/java/java_ref_string.asp    |
 | Converting a string to an int - Stack Overflow | https://stackoverflow.com/questions/5585779/how-do-i-convert-a-string-to-an-int-in-java        |
