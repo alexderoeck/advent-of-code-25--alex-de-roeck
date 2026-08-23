@@ -7,7 +7,7 @@
 "day01attempt2" - This contains code for my second attempt for day01 part 1<br>
 "day01part2attempt2" - This contains code for my second attempt for day01 part 2<br>
 "day02_P1" - This contains code for day02 part 1<br>
-<i>Puzzle Input Files: Please see "testFiles" folder, files ending in ".txt"</i>
+<i>Puzzle Input Files: Please see "textFiles" folder, files ending in ".txt"</i>
 <br><br>
 In order to run my program, you can open my files in the IntelliJ IDEA IDE. <i>I used version 2026.2.1</i>
 <br><br>
