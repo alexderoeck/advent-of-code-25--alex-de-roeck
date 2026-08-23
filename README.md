@@ -3,10 +3,11 @@
 <br>
 
 <h3>Files:</h3>
-Folder: "day01" - This contains code for my first attempt for day01 part 1<br>
-Folder: "day01attempt2" - This contains code for my second attempt for day01 part 1<br>
-Folder: "day01part2attempt2" - This contains code for my second attempt for day01 part 2<br>
-Folder: "day02_P1" - This contains code for day02 part 1<br>
+"day01" - This contains code for my first attempt for day01 part 1<br>
+"day01attempt2" - This contains code for my second attempt for day01 part 1<br>
+"day01part2attempt2" - This contains code for my second attempt for day01 part 2<br>
+"day02_P1" - This contains code for day02 part 1<br>
+<i>Puzzle Input Files: Please see ".idea" folder, files ending in ".txt"</i>
 <br><br>
 
 
