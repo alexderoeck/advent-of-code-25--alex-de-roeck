@@ -7,7 +7,8 @@ void main() {
     int degrees = 50; // STARTS AT 50
     int count = 0; // NUM OF TIMES DEGREES = 0
 
-    String filePath = "C:\\Users\\alexc\\IdeaProjects\\advent-of-code-25-adr\\.idea\\day01.txt";
+    String testFilePath = "C:\\Users\\alexc\\IdeaProjects\\advent-of-code-25-adr\\textFiles\\day01test.txt";
+    String filePath = "C:\\Users\\alexc\\IdeaProjects\\advent-of-code-25-adr\\textFiles\\day01.txt";
 
     try(BufferedReader reader = new BufferedReader(new FileReader(filePath))){
         System.out.println("That file exists");

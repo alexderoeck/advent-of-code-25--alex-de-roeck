@@ -5,8 +5,8 @@ import java.io.IOException;
 
 void main() {
 
-    String testFilePath = "C:\\Users\\alexc\\IdeaProjects\\advent-of-code-25-adr\\.idea\\day01test.txt";
-    String filePath = "C:\\Users\\alexc\\IdeaProjects\\advent-of-code-25-adr\\.idea\\day01.txt";
+    String testFilePath = "C:\\Users\\alexc\\IdeaProjects\\advent-of-code-25-adr\\textFiles\\day01test.txt";
+    String filePath = "C:\\Users\\alexc\\IdeaProjects\\advent-of-code-25-adr\\textFiles\\day01.txt";
 
     int degrees = 50; // 50 DEGREES BY DEFAULT
     int count = 0; // COUNT OF  ENDING ON ZERO

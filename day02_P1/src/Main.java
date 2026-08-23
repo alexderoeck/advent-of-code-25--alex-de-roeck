@@ -5,8 +5,8 @@ import java.io.IOException;
 
 void main() {
 
-    String testFilePath = "C:\\Users\\alexc\\IdeaProjects\\advent-of-code-25-adr\\.idea\\day02test.txt";
-    String filePath = "C:\\Users\\alexc\\IdeaProjects\\advent-of-code-25-adr\\.idea\\day02.txt";
+    String testFilePath = "C:\\Users\\alexc\\IdeaProjects\\advent-of-code-25-adr\\textFiles\\day02test.txt";
+    String filePath = "C:\\Users\\alexc\\IdeaProjects\\advent-of-code-25-adr\\textFiles\\day02.txt";
 
     long total = 0L; // TOTAL OF INVALID ID's
 
