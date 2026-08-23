@@ -9,6 +9,8 @@
 "day02_P1" - This contains code for day02 part 1<br>
 <i>Puzzle Input Files: Please see ".idea" folder, files ending in ".txt"</i>
 <br><br>
+In order to run my program, you can open my files in the IntelliJ IDEA IDE. <i>I used version 2026.2.1</i>
+<br><br>
 
 
 <h1>ATTEMPT 1</h1>
