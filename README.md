@@ -1,6 +1,4 @@
-<h1 align="center">ADVENT OF CODE 2025</h1>
 <h3 align="center">Java - IntelliJ IDEA - Alex de Roeck</h3>
-<br>
 
 <h1 align="center">ADVENT OF CODE 2025: Days 1-3</h1>
 
@@ -205,4 +203,4 @@ For attempt 2, I used the below websites to remind myself on certain Java code:
 
 
 <hr>
-<p align="center"><em>Used Gemini to assist in coding and writing the README</em></p>
+<p align="center"><em>Used Gemini to assist in coding (for the succesfful attempt taking 59:26) and assist in writing the README</em></p>
