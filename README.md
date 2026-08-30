@@ -91,11 +91,25 @@ int searchEndIndex = n - 1 - digitsNeededAfterThis;</code></pre>
 <hr>
 
 <br>
+
+<h2>Repository Structure and Files</h2>
+
+<p>Here is how the input text files map to each of the tasks in the repository:</p>
+
+<ul>
+  <li><b>Task 1 (The Safe Dial):</b> Uses <code>day01test.txt</code> & <code>day01.txt</code> for the rotation commands.</li>
+  <li><b>Task 2 (Invalid IDs):</b> Uses <code>day02test.txt</code> & <code>day02.txt</code> for the comma-separated ID bounds.</li>
+  <li><b>Task 3 (Elevator Batteries):</b> Uses <code>day03test.txt</code> & <code>day03.txt</code> for the rows of battery banks.</li>
+</ul>
+
+<hr>
+
+<br>
 <h2>How to Run</h2>
 <ol>
   <li>Open <b>IntelliJ IDEA</b>.</li>
   <li>Create a fresh Java project and paste the source files into your <code>src</code> directory.</li>
-  <li>Drop your input text files (<code>day01.txt</code>, <code>day02test.txt</code>, <code>day03.txt</code>) and adjust the code variables containing the filepath.</li>
+  <li>Drop your input text files (<code>day01.txt</code>, <code>day02test.txt</code>, <code>day03.txt</code>, etc) and adjust the code variables "filePathName" to contain the correct filepath.</li>
   <li>Execute the program</li>
 </ol>
 
