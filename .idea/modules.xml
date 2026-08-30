@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/advent-of-code-25-adr.iml" filepath="$PROJECT_DIR$/advent-of-code-25-adr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/attempt3_D1P1/attempt3_D1P1.iml" filepath="$PROJECT_DIR$/attempt3_D1P1/attempt3_D1P1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/attempt3_D1P2/attempt3_D1P2.iml" filepath="$PROJECT_DIR$/attempt3_D1P2/attempt3_D1P2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/attempt3_D2P1/attempt3_D2P1.iml" filepath="$PROJECT_DIR$/attempt3_D2P1/attempt3_D2P1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/attempt3_D2P2/attempt3_D2P2.iml" filepath="$PROJECT_DIR$/attempt3_D2P2/attempt3_D2P2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/attempt3_D3P1/attempt3_D3P1.iml" filepath="$PROJECT_DIR$/attempt3_D3P1/attempt3_D3P1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/attempt3_D3P2/attempt3_D3P2.iml" filepath="$PROJECT_DIR$/attempt3_D3P2/attempt3_D3P2.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01/day01.iml" filepath="$PROJECT_DIR$/day01/day01.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01attempt2/day01attempt2.iml" filepath="$PROJECT_DIR$/day01attempt2/day01attempt2.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01part2/day01part2.iml" filepath="$PROJECT_DIR$/day01part2/day01part2.iml" />
